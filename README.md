@@ -26,7 +26,7 @@ This system relies on some 3rd party plugins:
 
 # Dataview
 
-![[Dataview Plugin]]
+![](https://github.com/chetachiezikeuzor/Daily-Journal-Setup/blob/master/Assets/Dataview%20Dailies.png?raw=true)
 
 # Calendar
 
